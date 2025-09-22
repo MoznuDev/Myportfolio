@@ -1,8 +1,11 @@
 import React from 'react'
+import Myportfolio from '../Layout/Myportfolio'
 
 const About = () => {
   return (
-    <div> This is About</div>
+    <>
+    <Myportfolio/>
+    </>
   )
 }
 

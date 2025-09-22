@@ -35,7 +35,7 @@ const Header = () => {
                   tabIndex={0}
                   className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
                 >
-                 <Link to={'Home'}>
+                 <Link to={'/'}>
                 <li className="text-[18px] font-medium hover:text-violet-600 px-7">
                   Home
                 </li>
@@ -63,7 +63,7 @@ const Header = () => {
             </div>
             <div className="navbar-center hidden lg:flex">
               <ul className="menu menu-horizontal px-1">
-               <Link to={'home'}>
+               <Link to={'/'}>
                 <li className="text-[18px] font-medium hover:text-violet-600 px-7">
                   Home
                 </li>
