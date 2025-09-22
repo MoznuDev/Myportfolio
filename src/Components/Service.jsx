@@ -27,7 +27,7 @@ const Service = () => {
             <div  data-aos="fade-right" data-aos-duration="2000"
               className="shadow-2xl  lg:w-[30%] rounded-[15px] p-10 transition-all duration-300 hover:bg-violet-900 group hover:scale-100 mt-10"
              >
-              <h2 className="text-[26px] text-center">Font-End Developer</h2>
+              <h2 className="text-[26px] text-center">Graphic Degine</h2>
               <p className="text-[20px] mt-7 text-center">
                 lorem ipsum dolor sit amet consectur adi pising leo
               </p>
@@ -35,7 +35,7 @@ const Service = () => {
             <div data-aos="fade-right" data-aos-duration="2000"
               className="shadow-2xl  lg:w-[30%] rounded-[15px] p-10 transition-all duration-300 hover:bg-violet-900 group hover:scale-100 mt-10"
               >
-              <h2 className="text-[26px] text-center">Font-End Developer</h2>
+              <h2 className="text-[26px] text-center">Video Editing</h2>
               <p className="text-[20px] mt-7 text-center">
                 lorem ipsum dolor sit amet consectur adi pising leo
               </p>
